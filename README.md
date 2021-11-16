@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AriavB
-- 👀 I’m interested in hi-techn and backend development in particualr
-- 🌱 I’m currently learning about investing and playing live music
+- 👀 I’m interested in hi-tech, the web, management and backend development
+- 🌱 I’m currently playing live music and learning capital investing
 - 💞️ I’m looking to collaborate with creative and passionate people 
 - 📫 You can reach me on linkedin, facebook, instagram and twitter
